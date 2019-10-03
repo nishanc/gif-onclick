@@ -1,3 +1,10 @@
+/* ----------------------------------------------
+ * Created by Nishan Chathuranga on 2019-10-3 for HCC, Gampaha, LK
+ * Licensed under FreeBSD License.
+ * https://nishanc.guthub.io
+ * e - inbox.nishan@gmail.com 
+ * blog - https://medium.com/@nishancw
+ * ---------------------------------------------- */
 (function($) {
 
   // Get the .gif images from the "data-alt".
